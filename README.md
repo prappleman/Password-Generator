@@ -1,6 +1,6 @@
 # module3-challenge
 
-##User Story
+## User Story
 
 AS AN employee with access to sensitive data
 <br>
@@ -8,7 +8,7 @@ I WANT to randomly generate a password that meets certain criteria
 <br>
 SO THAT I can create a strong password that provides greater security
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN I need a new, secure password
 <br>
