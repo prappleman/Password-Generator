@@ -42,4 +42,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## deployed webpage
 
-https://prappleman.github.io/module3-challenge/
+https://prappleman.github.io/Password-Generator/
